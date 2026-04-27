@@ -212,6 +212,9 @@ streamlit run app.py
 
 La aplicación está disponible en:
 
+```
+https://proyecto-ia-ajedrez.streamlit.app/
+```
 
 En caso de que la aplicación no esté activa, puede ejecutarse localmente siguiendo las instrucciones de este README.
 
